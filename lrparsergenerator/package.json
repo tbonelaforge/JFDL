@@ -1,0 +1,13 @@
+{
+  "name": "lrparsergenerator",
+  "version": "0.0.1",
+  "description": "Generates LR Parsers, using the SLR method.",
+  "author": "Terry Ford",
+  "devDependencies": {
+    "mocha": "~1.17.0",
+    "chai": "~1.9.0"
+  },
+  "dependencies": {
+
+  }
+}

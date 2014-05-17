@@ -1,0 +1,11 @@
+{
+  "name" : "JFDL",
+  "description" : "JSON Format Definition Language",
+  "version" : "0.0.1",
+  "dependencies" : {
+    "underscore" : "~1.5.1"
+  },
+  "devDependencies" : {
+    
+  }
+}

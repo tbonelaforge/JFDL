@@ -1,0 +1,1 @@
+This is a language for defining allowable json document formats, or 'schemas' inspired by xsd and mongoose.
